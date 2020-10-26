@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FORM PENDAFTARAN</string>
+    <string name="nama">nama:</string>
+    <string name="software_yang_ditekuni">software yang ditekuni:</string>
+    <string name="simpan">simpan</string>
+    <string name="reset">reset</string>
+    <string name="netbeans">Netbeans</string>
+    <string name="sublime">Sublime</string>
+    <string name="android_studio">Android Studio</string>
+    <string name="alamat">alamat:</string>
+    <string name="perempuan">perempuan</string>
+    <string name="laki_laki">laki-laki</string>
+    <string name="jenis_kelamin">jenis kelamin:</string>
+    <string name="masukan_nama">masukan_nama</string>
+    <string name="masukan_alamat">masukan alamat</string>
+</resources>
